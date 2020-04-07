@@ -28,6 +28,7 @@
 - Jana Jarolimova
 - benhill
 - Maese Burgui
+- Ida Delphine
 - viz
 - Dhruv Sharma (https://github.com/dhruvsharma1999)
 - Florian Habenstein (https://github.com/FloHab)
